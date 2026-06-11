@@ -1,0 +1,95 @@
+Ravi Kumar
+
+Email: [ravi.kumar@gmail.com](mailto:ravi.kumar@gmail.com)
+Phone: +91 9876543210
+
+Education:
+B.Tech in Computer Science and Engineering, Aditya College of Engineering and Technology, 2024
+
+Skills:
+Python, Java, SQL, Git, Linux, Data Structures
+
+Projects:
+Online Library Management System
+Student Attendance Tracker
+
+Experience:
+1 year internship in Software Development
+
+---
+
+Sneha Reddy
+
+Email: [sneha.reddy@gmail.com](mailto:sneha.reddy@gmail.com)
+
+Education:
+B.Tech in Information Technology, JNTUK, 2025
+
+Skills:
+Python, Django, React, HTML, CSS, JavaScript
+
+Projects:
+E-Commerce Website
+Placement Preparation Portal
+
+Experience:
+0.5 years internship in Web Development
+
+---
+
+Arun Pillai
+
+Email: [arun.pillai@gmail.com](mailto:arun.pillai@gmail.com)
+Phone: +91 9988776655
+
+Education:
+B.Tech in Computer Science, VIT Chennai, 2024
+
+Skills:
+Java, Spring Boot, MySQL, Docker, Git, REST APIs, Linux, AWS, MongoDB
+
+Projects:
+Product Catalog Backend API
+Online Banking Management System
+
+Experience:
+1 year Software Engineering Internship
+
+---
+
+Priya Nair
+
+Email: [priya.nair@gmail.com](mailto:priya.nair@gmail.com)
+
+Education:
+MCA, Kerala University, 2023
+
+Skills:
+Python, Machine Learning, Pandas, NumPy, Scikit-learn
+
+Projects:
+Loan Default Prediction System
+Resume Screening Tool
+
+Experience:
+2 years Data Analyst
+
+---
+
+Karthik Sharma
+
+Email: [karthik.sharma@gmail.com](mailto:karthik.sharma@gmail.com)
+Phone: +91 9123456780
+
+Education:
+B.Tech in Electronics and Communication Engineering, SRM University, 2024
+
+Skills:
+C++, Embedded Systems, Arduino, IoT, MATLAB
+
+Projects:
+Smart Home Automation System
+IoT-Based Energy Monitoring
+
+Experience:
+0 years
