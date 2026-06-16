@@ -8,8 +8,8 @@ This repository documents my journey through a 12-Day AI Mentor Bootcamp where I
 
 ## 👨‍💻 About Me
 
-* Name: [Your Name]
-* Role: AI Mentor Bootcamp Participant
+* Name: P Bhavya Teja
+* Role: AI Bootcamp Participant
 * Focus Areas:
 
   * Generative AI
