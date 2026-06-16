@@ -216,8 +216,8 @@ Good AI governance balances innovation and accountability.
 
 ### Deliverables
 
-* Day4_[COMPANY]_brief.pdf
-* Day4_[COMPANY]_deck.pdf
+* Day4_Flipkart_brief.pdf
+* Day4_Flipkart_deck.pdf
 
 ### Workflow
 
@@ -297,25 +297,6 @@ The correct deployment choice depends on:
 
 ---
 
-# 📈 Bootcamp Progress
-
-| Day    | Topic                     | Status |
-| ------ | ------------------------- | ------ |
-| Day 1  | AI Playground & Setup     | ✅      |
-| Day 2  | Prompt Engineering        | ✅      |
-| Day 3  | Verification & Policy     | ✅      |
-| Day 4  | Productivity & Automation | ✅      |
-| Day 5  | Hugging Face Models       | ✅      |
-| Day 6  | Coming Soon               | ⏳      |
-| Day 7  | Coming Soon               | ⏳      |
-| Day 8  | Coming Soon               | ⏳      |
-| Day 9  | Coming Soon               | ⏳      |
-| Day 10 | Coming Soon               | ⏳      |
-| Day 11 | Coming Soon               | ⏳      |
-| Day 12 | Capstone Project          | ⏳      |
-
----
-
 # 🎯 Key Takeaways So Far
 
 * Prompt engineering is a repeatable skill.
@@ -324,28 +305,6 @@ The correct deployment choice depends on:
 * Automation multiplies productivity.
 * Open-source models provide flexible deployment options.
 * Responsible AI requires both technical and policy controls.
-
----
-
-# 🔗 Repository Structure
-
-```text
-ai-mentor-portfolio/
-│
-├── README.md
-├── Day1_Setup.ipynb
-├── Day2_SixPatterns.md
-├── Day2_ResumeExtractor.ipynb
-├── Day3_Verification.md
-├── Day3_AI_Policy.pdf
-├── Day4_NewsDigest.json
-├── Day5_HF.ipynb
-├── assets/
-│   ├── gemini_first_call.png
-│   └── daily_digest_test_email.png
-│
-└── capstone/
-```
 
 ---
 
