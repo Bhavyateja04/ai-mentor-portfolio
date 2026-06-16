@@ -91,7 +91,7 @@ Different AI systems excel at different tasks. Verification remains essential re
 
 ### Screenshot
 
-![Gemini First Call](gemini_first_call.png)
+![Gemini First Call](Gemini_First_Call.png)
 
 ### Outcome
 
@@ -194,7 +194,7 @@ Every factual claim must be verified against a primary source.
 
 ### Deliverable
 
-* [Day3_AI_Policy.pdf](Day3_AI_Policy.pdf)
+* [Day3_AI_Policy.pdf](Day3_AI_Policy.md)
 
 ### Topics Covered
 
