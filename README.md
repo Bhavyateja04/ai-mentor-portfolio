@@ -1,4 +1,4 @@
-# AI Mentor Bootcamp Portfolio — [Your Full Name]
+# AI Mentor Bootcamp Portfolio — Penke Bhavya Teja
 
 Welcome to my AI Mentor Bootcamp portfolio.
 
