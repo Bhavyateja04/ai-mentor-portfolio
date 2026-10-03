@@ -310,6 +310,6 @@ The correct deployment choice depends on:
 
 ## Contact
 
-GitHub: https://github.com/[your-username]
+GitHub: https://github.com/Bhavyateja04
 
 AI Mentor Bootcamp Portfolio — 2026
