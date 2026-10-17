@@ -71,7 +71,7 @@ Compare four AI systems across:
 
 ### Key Learning
 
-Different AI systems excel at different tasks. Verification remains essential regardless of model quality.
+Different AI systems excel at different tasks. Verification remains essential regardless of model quality we use.
 
 ---
 
