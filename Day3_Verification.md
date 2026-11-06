@@ -102,6 +102,5 @@ The claim that looked most authoritative but was actually weakest was claim **#3
 - [Eduwallah — IIIT Hyderabad placements](https://eduwallah.in/university/iiit-hyderabad-indian-institute-technology-hyderabad-20/placement)
 - [Shiksha — IIIT Hyderabad placement data](https://www.shiksha.com/articles/iiit-hyderabad-recruiting-companies-placements-data-blogId-121605)
 - [CollegeSimplified — average packages 2026](https://www.collegesimplified.in/post/average-placement-package-by-college-2026-the-comprehensive-salary-report)
-- [FreeJobAlert — Thapar placements](https://colleges.freejobalert.com/colleges/thapar-institute-of-engineering-and-technology/placements)
-
+-
 ---
